@@ -77,3 +77,4 @@ coverageReporter = {
   type: 'html',
   dir : 'coverage/'
 };
+
